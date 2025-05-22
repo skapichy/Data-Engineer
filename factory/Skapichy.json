@@ -1,0 +1,9 @@
+{
+	"name": "Skapichy",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97c6b10d-f4d1-4db1-bfcf-8ed44b562b6e",
+		"tenantId": "8886acdb-0277-41de-8d45-f9109ecc5df7"
+	}
+}
